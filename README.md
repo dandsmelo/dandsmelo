@@ -1,7 +1,7 @@
 ### Hi, I'm Dandara Melo 
 
-+ Graduated in systems development.
-+ Studying software development 
++ 🎓 Graduated in systems development;
++ 💻 Studying software development. 
 
 <div>
   <a href="https://github.com/dandsmelo">
