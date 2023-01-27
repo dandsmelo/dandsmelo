@@ -1,6 +1,6 @@
 ### Hi, I'm Dandara Melo 
 
-+ 🎓 Graduated in systems development;
++ 🎓 Systems development technique;
 + 💻 Studying software development. 
 
 <div>
