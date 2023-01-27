@@ -1,6 +1,7 @@
 ### Hi, I'm Dandara Melo 👋
 
-+ I'm studying software development, 
++ Graduated in systems development.
++ Studying software development 
 
 <div>
   <a href="https://github.com/dandsmelo">
