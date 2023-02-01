@@ -1,6 +1,6 @@
 ### Hi, I'm Dandara Melo 
 
-+ 🎓 Systems development technique;
++ 🎓 Systems developer;
 + 💻 Studying software development. 
 
 <div>
