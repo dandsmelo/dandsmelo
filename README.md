@@ -1,4 +1,4 @@
-### Hi, I'm Dandara Melo 
+### Hi! I'm Dandara Melo 
 
 + 🎓 Systems developer;
 + 💻 Studying software development. 
