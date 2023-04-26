@@ -1,7 +1,7 @@
 ### Hi, I'm Dandara Melo 
 
-+ 🎓 Systems developer;
-+ 💻 Studying software development. 
++ 🎓 Systems developer by Etec;
++ 💻 Studying software development at Fatec. 
 
 <div>
   <a href="https://github.com/dandsmelo">
