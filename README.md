@@ -1,7 +1,9 @@
-### Hi, I'm Dandara Melo 
+<p align="left">
+ ### Hi, I'm Dandara Melo 
 
 + 🎓 Systems developer;
-+ 💻 Studying software development. 
++ 💻 Studying software development.
+</p> 
 
 <p align="right">
  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dandsmelo&layout=compact&langs_count=7&theme=tokyonight"/>
